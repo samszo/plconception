@@ -1,13 +1,3 @@
-% historique.md projet Premier Langage
-% Dominique Revuz
-% \today
----
-papersize: A4
-margin-left: 0.5in
-margin-right: 0.5in
-margin-top: 0.5in
-margin-bottom: 0.5in
-...
 
 
 Le projet a démarré sur la constatation d'un certain nombre de manques sur les plate-formes d'enseignement qui nous sont proposées.
